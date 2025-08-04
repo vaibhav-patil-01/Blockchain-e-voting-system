@@ -100,7 +100,9 @@ Possible features to add/improve within the app.
 
 ## 🔗 Connect With Me  
 **Vaibhav Patil**  
-[LinkedIn](https://linkedin.com/in/vaibhavpatil2003) | [GitHub](https://github.com/vaibhav-patil-01) | [vaibhavvpatil8@gmail.com](mailto:vaibhavvpatil8@gmail.com) 
+- [LinkedIn](https://linkedin.com/in/vaibhavpatil2003) 
+- [GitHub](https://github.com/vaibhav-patil-01) 
+- [vaibhavvpatil8@gmail.com](mailto:vaibhavvpatil8@gmail.com) 
 ---
 
 Made with ❤️ by [Vaibhav Patil]((https://linkedin.com/in/vaibhavpatil2003)).
